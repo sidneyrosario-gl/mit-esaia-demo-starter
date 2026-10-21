@@ -1,0 +1,5 @@
+{
+  "alice": ["all-employees"],
+  "ben": ["all-employees", "security"],
+  "cara": ["all-employees", "m-and-a"]
+}
